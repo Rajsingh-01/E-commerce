@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
+
+nav {
+    position: sticky;
+    display: flex;
+    background-color: white;
+    border-radius: 2px solid black;
+    border: 1px solid black;
+    width: 1530px;
+    height: 102px;
+    margin: -7px;
+
+}
+
+img {
+    height: 49px;
+    width: 50px;
+    margin: -11px;
+    margin-top: -11px;
+    margin-left: -11px;
+    padding: 0px 41px;
+
+    margin-left: -77px;
+    margin-top: -28px;
+}
+
+ul {
+
+    text-align: center;
+    list-style: none;
+    display: flex;
+    padding: 0 50;
+    margin: 50px;
+}
+
+nav ul li {
+    font-family: 'arial black', serif;
+    justify-content: center;
+    align-items: center;
+    margin: -11px 12px;
+}
+
+.icon {
+    position: relative;
+
+
+}
+
+.fa {
+
+    padding: 20px 12px;
+    margin: 13px 9px;
+    position: relative;
+}
+
+header {
+    position: fixed
+}
+
+.container {
+    height: 318px;
+    display: flex;
+}
+
+p img {
+    width: 256px;
+    height: 313px;
+    padding: 88px 46px;
+    margin: 0 -44px;
+    cursor: pointer;
+}
+
+.deal {
+    height: 500px;
+}
+
+.deal img {
+    height: 290px;
+    width: 184px;
+    margin: -57px -40px;
+    padding: 0 41px;
+    cursor: pointer;
+}
+
+h1 {
+    margin: 119px 21px;
+    padding: 6px;
+    font-family: sans-serif;
+    color: #4c555d;
+
+}
+
+.bestofmyntra {
+
+    height: 453px;
+}
+
+h2 {
+    margin: 31px 21px;
+    padding: 6px;
+    font-family: sans-serif;
+    color: #4c555d;
+    height: 50px;
+
+}
+
+.bestofmyntra img {
+    height: 167px;
+    width: 182px;
+    margin: -18px -19px;
+    padding: 21px;
+    background-color: #eeeeee;
+    cursor: pointer;
+}
+
+
+.TOPPICKS {
+
+    height: 229px;
+}
+
+.TOPPICKS p {
+    margin: 36px 18px;
+    padding: 3px 24px;
+    font-family: sans-serif;
+    color: #4c555d;
+    font-size: 27px;
+}
+
+.TOPPICKS img {
+    height: 222px;
+    width: 203px;
+    margin: -5px 4px;
+    padding: 0px;
+    cursor: pointer;
+
+}
+
+
+.categories {
+    height: 800px;
+    background-color: #eeeeee;
+
+}
+
+.categories p {
+    margin: 61px 0px;
+    padding: 53px 66px;
+    font-family: sans-serif;
+    color: #4c555d;
+    font-size: 27px;
+    background-color: white;
+    font-weight: bold;
+}
+
+.categories img {
+
+    height: 155px;
+    width: 126px;
+    border-radius: 114%;
+    margin: 9px 21px;
+    padding: 0px;
+    border: 9px solid #ce3da2;
+    cursor: pointer;
+
+
+}
+
+
+.dealtopbrands {
+    height: 954px;
+}
+
+.dealtopbrands p {
+    margin: 57px 35px;
+    padding: 0 18px;
+    font-family: sans-serif;
+    color: #4c555d;
+    font-size: 38px;
+}
+
+.dealtopbrands img {
+    height: 259px;
+    width: 182px;
+    margin: -23px 0px;
+    padding: 28px 2px;
+    cursor: pointer;
+
+}
+
+/* start with footer content */
+
+.box1 {
+
+    height: 293px;
+    background-color: #f3f5f6;
+    width: 1529px;
+}
+
+.box1 h3 {
+    margin: 0;
+    padding: 0 189px;
+}
+
+
+.box1 p {
+    display: flex;
+    flex-direction: column;
+    padding: 0 109px;
+    position: relative;
+    left: 10%;
+}
+
+.box2 {
+    height: 0;
+    background-color: #f3f5f6;
+    width: 556px;
+    position: relative;
+    left: 34%;
+    top: -308px;
+    margin: 0 84px;
+}
+
+.box2 p {
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+}
+
+.google {
+    /* background-color: #f3f5f6; */
+    height: 15px;
+    width: max-content;
+    position: relative;
+    left: 55%;
+    top: -314px
+}
+
+.google p {
+    margin: 5px;
+}
+
+.google img {
+    margin: 0;
+    height: fit-content;
+    width: 371px;
+}
+
+.google a {
+    margin: 0 -14px;
+    padding: 0;
+    color: #120202;
+    position: relative;
+    top: -49px;
+}
+
+.footer3 {
+
+    height: 1500px;
+    background-color: #f3f5f6;
+    ;
+}
+
+/* .footer3 h5{
+    margin: 0;
+} */
+.footer3 p {
+    margin: -36px;
+    padding: 70px;
+
+}
